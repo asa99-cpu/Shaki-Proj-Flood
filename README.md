@@ -29,4 +29,3 @@ This project aligns with **ethical standards** by prioritizing community safety 
 
 The project ensures data privacy and promotes equitable access to critical information, empowering all citizens to protect themselves and their property.
 
-## Repository Structure
